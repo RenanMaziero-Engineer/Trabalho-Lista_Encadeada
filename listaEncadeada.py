@@ -1,8 +1,3 @@
-'''
-Renan Maziero
-RU: 4691724
-'''
-
 class cartao:
 
    def __init__(self, num, cor):
